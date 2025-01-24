@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_hero_hero_metaphysers",
+  "info": {
+    "displayName": "HeroMetaphyser"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    }
+  }
+}
